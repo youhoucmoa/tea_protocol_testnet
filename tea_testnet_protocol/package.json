@@ -1,7 +1,7 @@
 {
   "name": "tea_testnet_protocol",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,5 +22,15 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youhoucmoa/tea_protocol_testnet"
+  },
+  "homepage": "https://github.com/youhoucmoa/tea_protocol_testnet#readme",
+  "author": "youhoucmoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youhoucmoa/tea_protocol_testnet/issues"
+  },
 }
