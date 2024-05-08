@@ -23,14 +23,21 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
   },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.mjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/youhoucmoa/tea_protocol_testnet"
   },
-  "homepage": "https://github.com/youhoucmoa/tea_protocol_testnet#readme",
+  "keywords": [
+    "npm",
+    "tea.xyz",
+    "youhoucmoa"
+  ],
   "author": "youhoucmoa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/youhoucmoa/tea_protocol_testnet/issues"
   },
+  "homepage": "https://github.com/youhoucmoa/tea_protocol_testnet#readme"
 }
